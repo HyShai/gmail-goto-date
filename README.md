@@ -3,6 +3,9 @@
 
 A chrome extension that simplifies finding emails for a specific date.
 
+### INSTALLATION
+Load the unpacked extension in `chrome://extensions`. See [here](http://stackoverflow.com/a/24577660) for more details.
+
 ### CREDITS
 - [flatpickr](https://github.com/chmln/flatpickr)
 - [moment](https://github.com/moment/moment)
