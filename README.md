@@ -1,8 +1,7 @@
 ## GGTD - Gmail GOTO Date
 ------
 
-A chrome extension that simplifies finding emails for a specific date.
-
+A chrome extension that simplifies finding emails (Gmail/Inbox) for a specific date.
 ### INSTALLATION
 Load the unpacked extension in `chrome://extensions`. See [here](http://stackoverflow.com/a/24577660) for more details.
 
