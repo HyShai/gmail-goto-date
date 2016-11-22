@@ -9,7 +9,7 @@ var options = {
 		    let url = 'https://'
 		    switch(current_url.hostname){
 		    	case 'mail.google.com':
-		    		url += `${current_url.hostname} ${current_url.pathname} '#'`;
+		    		url += `${current_url.hostname}${current_url.pathname}#`;
 		    		break;
 		    	case 'inbox.google.com':
 		    		url += (current_url.hostname + '/');
