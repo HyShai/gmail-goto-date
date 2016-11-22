@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "gmail goto date",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "View emails for specific date",
+    "description": "The description of the application"
+  }
+}
