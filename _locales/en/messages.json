@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "gmail goto date",
+    "message": "GGTD - Gmail GOTO Date",
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "View emails for specific date",
+    "message": "A chrome extension that simplifies finding emails (Gmail/Inbox) for a specific date.",
     "description": "The description of the application"
   }
 }
