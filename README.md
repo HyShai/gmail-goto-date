@@ -8,7 +8,8 @@ A chrome extension that simplifies finding emails (Gmail/Inbox) for a specific d
 ![alt tag](images/screenshot2.PNG)
 
 ### INSTALLATION
-Load the unpacked extension in `chrome://extensions`. See [here](http://stackoverflow.com/a/24577660) for more details.
+Download from the [chrome web store.](https://chrome.google.com/webstore/detail/ggtd-gmail-goto-date/jogdjcbcfmhngcoceagjnnnlanicmjol)
+Or load the unpacked extension in `chrome://extensions`. See [here](http://stackoverflow.com/a/24577660) for more details.
 
 
 ### CREDITS
