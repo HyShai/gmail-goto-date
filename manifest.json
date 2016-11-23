@@ -13,7 +13,7 @@
       "scripts/background.js"
     ]
   },
-  "permissions": ["tabs", "*://mail.google.com/*", "*://mail.inbox.com/*"],
+  "permissions": ["tabs", "*://mail.google.com/*", "*://inbox.google.com/*"],
   "page_action": {
     "default_icon": {
       "19": "images/icon-19.png",
